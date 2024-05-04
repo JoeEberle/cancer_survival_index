@@ -1,12 +1,12 @@
 
-# Cancer Survival Index - Calculated index of monthly survival from initial (denovo) diagnosis
-Calculated index of monthly survival from initial (denovo) diagnosis
+# Cancer Survival Index - Calculated index of monthly survival from initial (DiNovo) diagnosis
+Calculated index of monthly survival from initial (DiNovo) diagnosis
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Cancer Survival Index** - an example for your projects
 
-Calculated index of monthly survival from initial (denovo) diagnosis
+Calculated index of monthly survival from initial (DiNovo) diagnosis
 
 ![Image image_filename](sample.png)
 
@@ -38,4 +38,4 @@ To get started with the **Cancer Survival Index** solution repository, follow th
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](cancer_survival_index.png)  <br>
+    ## Deliverables or Figures![additional_image](cancer_survival_index.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
