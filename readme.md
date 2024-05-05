@@ -48,5 +48,5 @@ To get started with the **Cancer Survival Index** solution repository, follow th
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](cancer_survival_index.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](cancer_survival_index.png)  <br>
     
