@@ -1,11 +1,4 @@
 
-![Image image_filename](solution_sign.png)
-
-# Cancer Survival Index - Calculated index of monthly survival from initial (De Novo) diagnosis
-Calculated index of monthly survival from initial (De Novo) diagnosis
-
-![Image image_filename](code.png)
-
 
 ## The Utility of a Cancer Survival Index in Comparative Effectiveness Research
 
@@ -27,45 +20,3 @@ Who Can Use the Cancer Survival Index?
 ## Conclusion
 In conclusion, the Cancer Survival Index is an invaluable tool in the field of oncology. Its ability to provide a consistent measure of patient survival facilitates better comparative effectiveness research, ultimately leading to improved treatment strategies and patient outcomes. By adopting the CSI, various stakeholders in the healthcare system can contribute to a more effective and equitable approach to cancer care.
 
-
-![Image image_filename](sample.png)
-
-## Getting Started
-To get started with the **Cancer Survival Index** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## Solution Features
-- Easy to understand and use  
-- Easily Configurable 
-- Quickly start your project with pre-built templates
-- Its Fast and Automated
-
-## Notebook Features
-- **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each function
-- **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
-- **Includes Talking Code** - The code explains itself 
-- **Self Logging** - Enhanced python standard logging   
-- **Self Debugging** - Enhanced python standard debugging
-- **Low Code** - or - No Code  - Most solutions are under 50 lines of code
-- **Educational** - Includes educational dialogue and background material
-- **Secure** - All the sample solutions are secure and use synthetic data, ensuring they contain no sensitive data or information.
-    
-## Deliverables or Figures
- ![additional_image](cancer_survival_index.png)  <br>
-    
-
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
-
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
