@@ -1,0 +1,9 @@
+2024-05-23 00:44:37,802 - INFO - START cancer_survival_index =============================================
+2024-05-23 00:44:37,803 - INFO - START cancer_survival_index Start Time = 2024-05-23 00:44:37
+2024-05-23 00:44:37,803 - INFO - cancer_survival_index Step 0 - Initialize the configuration file parser
+2024-05-23 00:44:37,803 - INFO - Process cancer_survival_index Step 0 - Initializing and starting Logging Process.
+2024-05-23 00:44:37,831 - INFO - PERFORMANCE cancer_survival_index The total process duration was:0.03
+2024-05-23 00:44:37,831 - INFO - PERFORMANCE cancer_survival_index Stop Time = 2024-05-23 00:44:37
+2024-05-23 00:44:37,831 - INFO - PERFORMANCE cancer_survival_index Short process duration less than 3 Seconds:0.03
+2024-05-23 00:44:37,831 - INFO - PERFORMANCE cancer_survival_index Performance optimization is not reccomended
+2024-05-23 00:44:37,831 - INFO - END cancer_survival_index =============================================
